@@ -1,0 +1,71 @@
+<!-- ===== privacy.html ===== -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Wflows — Privacy Policy</title>
+  <meta name="description" content="Wflows Privacy Policy" />
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,'Helvetica Neue',Arial;margin:0;padding:32px;background:#f8fafc;color:#0f172a}
+    main{max-width:900px;margin:0 auto;background:#fff;padding:28px;border-radius:10px;box-shadow:0 6px 20px rgba(11,22,40,0.06)}
+    h1{font-size:20px;margin-top:0}
+    p,li{line-height:1.5}
+    footer{margin-top:24px;font-size:13px;color:#475569}
+    a{color:#0b69ff}
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Wflows — Privacy Policy</h1>
+    <p><strong>Effective date:</strong> October 5, 2025</p>
+
+    <p>This Privacy Policy explains how <strong>Wflows</strong> ("we", "our", "us") collects, uses, and protects personal information when you use our Telegram bot, website, or related services ("Service"). By using Wflows, you agree to this Privacy Policy.</p>
+
+    <h2>1. Overview</h2>
+    <p>Wflows is a Telegram-based automation tool that helps users manage and schedule posts across multiple social media platforms, including TikTok. We collect only the data required to operate and improve the Service.</p>
+
+    <h2>2. Information We Collect</h2>
+    <h3>a. Account & Authentication Data</h3>
+    <p>When you connect your TikTok or other social accounts through Wflows, we may receive authorization tokens and basic profile information such as TikTok user ID, username, and public profile details. We never collect your TikTok password.</p>
+
+    <h3>b. User-Provided Content</h3>
+    <p>Content you create or schedule (captions, images, videos) may be processed to enable posting. We store data only as needed for the Service.</p>
+
+    <h3>c. Telegram Data</h3>
+    <p>We may process your Telegram user ID, username, and chat interactions to operate the bot.</p>
+
+    <h3>d. Technical Data</h3>
+    <p>We collect logs, timestamps, and error reports to debug and secure the Service.</p>
+
+    <h2>3. How We Use the Data</h2>
+    <p>We use data to authenticate account connections, publish content when requested, provide and improve the Service, and respond to support requests. We do not sell your data.</p>
+
+    <h2>4. Data Sharing</h2>
+    <p>We share data only with third-party APIs (TikTok, Telegram), service providers (hosting, analytics), and authorities when legally required. We do not share data for advertising.</p>
+
+    <h2>5. Data Retention</h2>
+    <p>We retain user data only as long as necessary to operate the Service. OAuth tokens and session data are deleted on disconnection or inactivity. To request deletion, contact <a href="mailto:wfdevtest01@gmail.com">wfdevtest01@gmail.com</a>.</p>
+
+    <h2>6. Security</h2>
+    <p>We use reasonable measures to protect user data, but no service is risk-free.</p>
+
+    <h2>7. User Rights</h2>
+    <p>Depending on jurisdiction, you may have rights to access, correct, or delete your data. Contact <a href="mailto:wfdevtest01@gmail.com">wfdevtest01@gmail.com</a> to exercise these rights.</p>
+
+    <h2>8. Third-Party Links & Services</h2>
+    <p>Using third-party APIs like TikTok and Telegram is subject to their own policies. We are not responsible for their practices.</p>
+
+    <h2>9. Children’s Privacy</h2>
+    <p>Wflows is not intended for users below the minimum digital consent age. If we learn we have collected data from a minor, we will promptly delete it.</p>
+
+    <h2>10. Changes to This Policy</h2>
+    <p>We may update this policy. Changes will be posted with a new effective date.</p>
+
+    <h2>11. Contact</h2>
+    <p>Questions or data requests: <a href="mailto:wfdevtest01@gmail.com">wfdevtest01@gmail.com</a></p>
+
+    <footer>© Wflows — Telegram bot service</footer>
+  </main>
+</body>
+</html>
